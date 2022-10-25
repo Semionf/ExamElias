@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+table {
+  width: 80%;
+  table-layout: fixed;
+
+  margin: 10vh auto;
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: blue;
+  color: azure;
+  text-align: center;
+  white-space: nowrap;
+  margin: 10vh auto;
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+
+tr,
+td {
+  background-color: aquamarine;
+  text-align: center;
+  white-space: nowrap;
+  margin: 10vh auto;
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+}
